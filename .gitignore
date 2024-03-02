@@ -1,3 +1,6 @@
+.pytest_cashe
 .idea
 .venv
 .env
+allure-results
+screenshots
