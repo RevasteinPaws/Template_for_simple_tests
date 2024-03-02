@@ -1,1 +1,1 @@
-"# Template_for_simple_tests" 
+# Template_for_simple_tests
