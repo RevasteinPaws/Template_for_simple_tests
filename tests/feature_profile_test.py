@@ -19,4 +19,5 @@ class TestProfileFeature(BaseTest):
         self.personal_page.is_opened()
         self.personal_page.change_name(f"Tester {random.randint(1, 100)}.")
         self.personal_page.save_changes()
+        self.dashboard_page.click_admin_button()
         self.personal_page.make_screenshot("Successful changes")
