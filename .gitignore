@@ -3,4 +3,5 @@
 .venv
 .env
 allure-results
+allure-report
 screenshots
