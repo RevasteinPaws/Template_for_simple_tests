@@ -8,7 +8,7 @@ class DashboardPage(BasePage, BaseClass):
     page_url = Links.DASHBOARD_PAGE
 
     my_info_button = "//span[text()='My Info']"
-    admin_button = "//span[text()='Admi']"
+    admin_button = "//span[text()='Admin']"
 
     @allure.step("Click on 'My Info' button'")
     def click_my_info_button(self):
