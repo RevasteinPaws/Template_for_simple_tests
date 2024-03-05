@@ -1,1 +1,5 @@
-{"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc","name":"timeline","children":[{"name":"DESKTOP-6PBM5NM","children":[{"name":"13552-MainThread","children":[{"name":"Change profile name","uid":"fd67cb341202eb42","parentUid":"858944bfb3989b73de72bed1c4ad2c89","status":"passed","time":{"start":1709622331289,"stop":1709622336543,"duration":5254},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":["smoke"]}],"uid":"858944bfb3989b73de72bed1c4ad2c89"}],"uid":"178348f346ce764c84cc0327e3fac278"}]}
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ ],
+  "name" : "timeline"
+}
